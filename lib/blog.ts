@@ -9,54 +9,26 @@ export interface BlogPost {
 
 export const blogPosts: BlogPost[] = [
   {
-    slug: "building-modern-web-apps",
-    title: "Building Modern Web Applications with Next.js",
-    date: "2025-03-15",
-    excerpt: "Exploring the power of Next.js for creating fast, scalable web applications with excellent developer experience.",
+    slug: "i-have-a-house-fetish",
+    title: "I have a house fetish",
+    date: "2025-10-01",
+    excerpt: "When Jared said, "I simply imagine that my skeleton is me, and my body is my house. And that way, I'm always in my home.”, that statement hit way too hard since I’d never truly feel at home anywhere for the longest time.",
     content: `
-# Building Modern Web Applications with Next.js
+“I have a house fetish. I want a house. I have always wanted a house.”
 
-Next.js has revolutionized the way we build web applications. With its powerful features like server-side rendering, static site generation, and API routes, it provides everything you need in one framework.
+Once heard over in a video, I’ve realised this is very much true for myself as well… not in the materialistic sense of the word, but in spaces where I can truly be home. Spaces where I can run to when things stop making sense, spaces where I’m fed with love, spaces where I can just… be.
 
-## Why Next.js?
+And no matter whatever you earn in this world, this still remains very much a privilege which you, to be fair, cannot simply earn. 
 
-The framework offers an incredible developer experience while maintaining excellent performance. The App Router introduces new patterns for building React applications that are both intuitive and powerful.
+[Or you may, if you can earn people, that is.]
 
-## Key Features
+When Jared said, "I simply imagine that my skeleton is me, and my body is my house. And that way, I'm always in my home.”, that statement hit way too hard since I’d never truly feel at home anywhere for the longest time. I simply never thought I was privileged enough to have a home when caught in the loop of hyper-independence. And I couldn’t have been more wrong [and I’m so glad I was], since there’s no better coping mechanism than simply being home. 
 
-- **Server Components**: Render components on the server for better performance
-- **Streaming**: Progressive rendering for faster initial page loads
-- **Built-in Optimization**: Automatic image and font optimization
-- **TypeScript Support**: First-class TypeScript integration
+The last few days, be it that home where my friends would make me torai and avocado toast [two different plates, yes], or that home where this stupid dog would wag his tail at me while his human puts triangular parathas on my plate… or that home where I simply tell my family that I’m staying as long as I please if things don’t work out as planned [there’s no plan, to be honest] as desserts get ordered — the last few days have been kind reminders of the quiet privilege I hold.
 
-Getting started with Next.js is easier than ever, and the ecosystem continues to grow with amazing tools and libraries.
+And yes, this privilege strikingly has plants almost in each of these homes <3
     `,
-    tags: ["Next.js", "React", "Web Development"]
-  },
-  {
-    slug: "the-art-of-minimalism",
-    title: "The Art of Minimalism in Web Design",
-    date: "2025-02-28",
-    excerpt: "Less is more. Discover how minimalist design principles can create powerful, focused user experiences.",
-    content: `
-# The Art of Minimalism in Web Design
-
-Minimalism isn't just about using less - it's about being intentional with every element you include. Each component should serve a purpose and contribute to the overall user experience.
-
-## Core Principles
-
-1. **Clarity**: Every element should have a clear purpose
-2. **Whitespace**: Give your content room to breathe
-3. **Typography**: Let beautiful type do the heavy lifting
-4. **Hierarchy**: Guide users through content naturally
-
-## Benefits
-
-Minimalist design leads to faster load times, better accessibility, and more focused user experiences. When you remove the unnecessary, what remains becomes more powerful.
-
-The best designs often feel effortless, but they're the result of careful consideration and restraint.
-    `,
-    tags: ["Design", "UX", "Minimalism"]
+    tags: ["House Fetish", "Love", "Comfort"]
   },
   {
     slug: "typescript-tips-and-tricks",
