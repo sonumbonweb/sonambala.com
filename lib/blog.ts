@@ -12,7 +12,7 @@ export const blogPosts: BlogPost[] = [
     slug: "i-have-a-house-fetish",
     title: "I have a house fetish",
     date: "2025-10-01",
-    excerpt: "When Jared said, \"I simply imagine that my skeleton is me, and my body is my house. And that way, I'm always in my home.\", that statement hit way too hard since I’d never truly feel at home anywhere for the longest time.",
+    excerpt: "When Jared said, "I simply imagine that my skeleton is me, and my body is my house. And that way, I'm always in my home.”, that statement hit way too hard since I’d never truly feel at home anywhere for the longest time.",
     content: `
 “I have a house fetish. I want a house. I have always wanted a house.”
 
